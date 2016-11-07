@@ -3,9 +3,9 @@ Truth tables for all the transistors used in the adder.
 
 A guide to my ternary logic system:
 
-HIGH charge = TRUE = 2
-MEDIUM charge = UNCERTAIN = 1
-LOW charge = FALSE = 0
+HIGH charge = TRUE = 2<br>
+MEDIUM charge = UNCERTAIN = 1<br>
+LOW charge = FALSE = 0<br>
 
 Each gate is represented by its circuit diagram notation along with either the letters "K", "B", or "T". These stand for "Kleene", "Binary", and "Ternary" respectively. The notations will either pin them as OR, AND, NOR, or NAND-based. A rundown of what each letter means is detailed below.
 
