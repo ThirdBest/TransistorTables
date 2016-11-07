@@ -9,7 +9,7 @@ LOW charge = FALSE = 0<br>
 
 Each gate is represented by its circuit diagram notation along with either the letters "K", "B", or "T". These stand for "Kleene", "Binary", and "Ternary" respectively. The notations will either pin them as OR, AND, NOR, or NAND-based. A rundown of what each letter means is detailed below.
 
-<b>Kleene Logic:</b>
+<b>Kleene:</b>
 My ternary adder takes heavy influence from "Kleene Logic", a base-3 interpretation of Boolean Logic, in which there exists an "uncertain" value. Two Kleene gates are used, KOR and KAND (Kleene OR and Kleene AND). More information on Kleene Logic can be found in the "Sources" readme.
 
 <b>Binary:</b>
